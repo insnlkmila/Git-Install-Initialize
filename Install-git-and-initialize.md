@@ -86,23 +86,23 @@ Initialization is carried out to ensure the latest version of the program code y
 
 1. Select the folder you want to initialize. Type **cmd** in your folder path, the cmd terminal will be displayed quickly in the specific folder you just opened. Don’t forget to click enter once you are done typing cmd in the folder path.
 <p align="center">
-  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.1.jpg" height="300" width="650">
+  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.1.jpg" height="200" width="800">
 </p>
 
 
 2. You can type **git init** as shown below. This stage is used to create a new repository. The message you got is initialized empty Git repository in D:/Sistem Arsip which means the new repository was created successfully. However, this repository is still empty.
 <p align="center">
-  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.2.jpg" height="300" width="650">
+  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.2.jpg" height="200" width="800">
 </p>
 
 3. Then type **git add .** to add new files to the repository. Files in the Sistem Arsip folder will automatically fill the repository. The example folder I use is a simple PHP programming system.
 <p align="center">
-  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.3.jpg" height="300" width="650">
+  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.3.jpg" height="200" width="800">
 </p>
 
 
 4. Type **git commit –m "initial commit"** to do Initialization of the first version. The successful initialization is shown below. If there is a change in the source code on your files, you can repeat points 2 and 3. You can replace the naming "initial commit" with the line according to the changes. For example "add system calculator", "change the login system" and other additions or changes.
 <p align="center">
-  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.4.png" height="300" width="650">
+  <img src="https://github.com/insnlkmila/Git-Install-Initialize/blob/main/images/1.4.png" height="200" width="800">
 </p>
 
