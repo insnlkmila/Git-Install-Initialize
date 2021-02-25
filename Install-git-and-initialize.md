@@ -1,6 +1,6 @@
 # Git-Install-Initialize
 
-##Installation Git: How to install Git on Windows
+#<ins>Installation Git: How to install Git on Windows</ins>
 
 Before using Git, of course, we need to install Git on the computer you are using. If you're on Windows, here's a Git installation guide:
 1. Download the Git installer
