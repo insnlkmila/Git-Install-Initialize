@@ -1,6 +1,6 @@
 # Git-Install-Initialize
 
-##<ins>Installation Git: How to install Git on Windows</ins>.
+##Installation Git: How to install Git on Windows
 
 Before using Git, of course, we need to install Git on the computer you are using. If you're on Windows, here's a Git installation guide:
 1. Download the Git installer
@@ -80,7 +80,7 @@ After a few steps, you will find an install button. Choose additional configurat
 
 Wait for a moments until the installation process is complete. Once the installation already completed, Your git app is ready to use!
 
-##<ins>Git Initialization Tutorial</ins>
+##Git Initialization Tutorial
 
 Initialization is carried out to ensure the latest version of the program code you enter is stored correctly. As we discussed before, Git serve as a version control for developers. Initialization also used to save a version of the program code to a new repository for you who are new to Git, so for the next changes you only need to create the initialization name according to your changes. Still confused? Let's get the steps for initializing Git:
 
